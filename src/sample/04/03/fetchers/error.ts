@@ -1,4 +1,4 @@
-type HttpError = {
+export type HttpError = {
   err: { message: string };
 };
 
